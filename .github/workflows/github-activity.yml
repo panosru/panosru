@@ -2,12 +2,13 @@ name: GitHub Activity Section
 
 on:
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
 
     steps:
       - uses: actions/checkout@v2
@@ -16,3 +17,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_PAT: ${{ secrets.GH_PAT }}
           GH_USERNAME: panosru
+        with:
+          COMMIT_MSG: 'Updated Activity'
