@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![](https://vistr.dev/badge?repo=panosru.panosru&corners=square)](https://github.com/panosru/vistr.dev) [![](https://img.shields.io/badge/-@panosru-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/panosru) [![](https://img.shields.io/badge/-@panosru-%23181717?style=flat-square&logo=github)](https://github.com/panosru) [![](https://img.shields.io/badge/-Panagiotis%20Kosmidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotiskosmidis/)](https://www.linkedin.com/in/panagiotiskosmidis/)
+![](https://vistr.dev/badge?repo=panosru.panosru&corners=square) [![](https://img.shields.io/badge/-@panosru-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/panosru) [![](https://img.shields.io/badge/-@panosru-%23181717?style=flat-square&logo=github)](https://github.com/panosru) [![](https://img.shields.io/badge/-Panagiotis%20Kosmidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotiskosmidis/)](https://www.linkedin.com/in/panagiotiskosmidis/)
 <!--
 **panosru/panosru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
