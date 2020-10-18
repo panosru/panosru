@@ -4,7 +4,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Panosru's github stats](https://github-readme-stats.vercel.app/api?username=panosru&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=My%20Open%20Source%20journey) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true)
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=panosru&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=My%20Open%20Source%20journey" alt="Panosru's github stats" /> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true" alt="Top Langs" />
 
 <!--
 **panosru/panosru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
