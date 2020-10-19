@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Panagiotis Kosmidis (AKA @panosru)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=panosru-github-profile) [![](https://img.shields.io/badge/-Panagiotis%20Kosmidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotiskosmidis/)](https://www.linkedin.com/in/panagiotiskosmidis/) ![](https://img.shields.io/badge/-Europass%20CV-blue?style=flat-square&logo=read-the-docs&logoColor=white&link=https://europa.eu/!yX83UF) [![](https://img.shields.io/badge/-@panosru-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/panosru)
+[![](https://visitor-badge.glitch.me/badge?page_id=panosru-github-profile)](https://github.com/panosru) [![](https://img.shields.io/badge/-Panagiotis%20Kosmidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotiskosmidis/)](https://www.linkedin.com/in/panagiotiskosmidis/) [![](https://img.shields.io/badge/-Europass%20CV-blue?style=flat-square&logo=read-the-docs&logoColor=white&link=https://europa.eu/!yX83UF)](https://europa.eu/!yX83UF) [![](https://img.shields.io/badge/-@panosru-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/panosru)
 
 🔭 Currently, on my free time, I'm working on [Aviant.DDD](https://github.com/panosru/Aviant.DDD) and [CleanDDDArchitecture](https://github.com/panosru/CleanDDDArchitecture) template. Both are based on .Net/C# and demonstrate the use of Domain Driven Design, Clean Architecture, CQRS, Event Sourcing and other cool stuff!
 
