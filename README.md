@@ -8,13 +8,13 @@
 
 🎵 I love music!
 
-[![Spotify](https://panosru.vercel.app/api/spotify)](https://open.spotify.com/user/panosru)
+[![Spotify](https://panosru.vercel.app/api/spotify)](https://open.spotify.com/user/panosru) [<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=395187&theme=light&layout=compact">](https://stackoverflow.com/users/story/395187)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=panosru&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=My%20Open%20Source%20journey&locale=en&line_height=30" alt="Panosru's github stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true&locale=en&exclude=bundle-up,protos-docs,node-jinjs,protos,docker-example,docker-php-censor,php-censor-debug,better-reflection-debug,BetterReflection,phpunit-debug,framework,phalcon-docker-nginx,php-censor,php-deal-debug,Aviant.DDD-Documentation,playground,cockpit_GROUPS" alt="Top Langs" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=panosru&hide_progress=true&hide_border=true" /> [<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=395187&theme=light&layout=compact">](https://stackoverflow.com/users/story/395187)
+<!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=panosru&hide_progress=true&hide_border=true" /> -->
 
 
 **👣 Recent GitHub Activity**
