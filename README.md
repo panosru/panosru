@@ -12,11 +12,12 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=panosru&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=My%20Open%20Source%20journey&locale=en&line_height=30" alt="Panosru's github stats" /> <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true&locale=en&exclude=bundle-up,protos-docs,node-jinjs,protos,docker-example,docker-php-censor,php-censor-debug,better-reflection-debug,BetterReflection,phpunit-debug,framework,phalcon-docker-nginx,php-censor,php-deal-debug,Aviant.DDD-Documentation,playground,cockpit_GROUPS" alt="Top Langs" />
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=panosru&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=My%20Open%20Source%20journey&locale=en&line_height=30" alt="Panosru's github stats" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true&locale=en&exclude=bundle-up,protos-docs,node-jinjs,protos,docker-example,docker-php-censor,php-censor-debug,better-reflection-debug,BetterReflection,phpunit-debug,framework,phalcon-docker-nginx,php-censor,php-deal-debug,Aviant.DDD-Documentation,playground,cockpit_GROUPS" alt="Top Langs" />
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=panosru&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=panosru&hide_progress=true&hide_border=true" /> [<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=395187&theme=light&layout=compact">](https://stackoverflow.com/users/story/395187)
 
-<strong>👣 Recent GitHub Activity</strong>
+
+**👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#18](https://github.com/akhilmhdh/contributors-readme-action/issues/18) in [akhilmhdh/contributors-readme-action](https://github.com/akhilmhdh/contributors-readme-action)
