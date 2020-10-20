@@ -16,7 +16,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_PAT: ${{ secrets.GH_PAT }}
-          GH_USERNAME: panosru
-          MAX_LINES: 10
         with:
           COMMIT_MSG: 'Updated Activity'
+          MAX_LINES: 10
+          GH_USERNAME: panosru
