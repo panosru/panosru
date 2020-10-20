@@ -18,5 +18,4 @@ jobs:
           GH_PAT: ${{ secrets.GH_PAT }}
         with:
           COMMIT_MSG: 'Updated Activity'
-          MAX_LINES: 10
           GH_USERNAME: panosru
