@@ -12,7 +12,7 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-<img align="top" src="https://github-stats.panosru.vercel.app/api?username=panosru&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=My%20Open%20Source%20journey&locale=en&line_height=30" alt="Panosru's github stats" /> <img src="https://github-stats.panosru.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true&locale=en&exclude_repo=protos-docs,node-jinjs,protos,docker-php-censor,BetterReflection,framework,phalcon-docker-nginx,php-censor,Aviant.DDD-Documentation,playground,github-readme-stats,jamesgeorge007,hedythedev,oxynode" alt="Top Langs" />
+<img align="top" src="https://github-stats.panosru.vercel.app/api?username=panosru&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&custom_title=My%20Open%20Source%20journey&locale=en&line_height=30" alt="Panosru's github stats" /> <img src="https://github-stats.panosru.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true&locale=en&exclude_repo=github-readme-stats,panosru,playground, cockpit_GROUPS,jamesgeorge007,hedythedev,katerina-web,.net-rnd-i18n,php-censor,framework,BetterReflection,docker-php-censor,protos,node-jinjs,protos-docs,OxyNode" alt="Top Langs" />
 
 <img align="right" width="400" src="https://github-stats.panosru.vercel.app/api/wakatime?username=panosru&hide_border=true" />
 
