@@ -17,5 +17,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_PAT: ${{ secrets.GH_PAT }}
         with:
-          COMMIT_MSG: 'Updated Activity'
           GH_USERNAME: panosru
+          COMMIT_MSG: 'Updated Activity'
+          MAX_LINES: 10
