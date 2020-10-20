@@ -19,14 +19,4 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#584](https://github.com/anuraghazra/github-readme-stats/pull/584) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. ❌ Closed PR [#583](https://github.com/anuraghazra/github-readme-stats/pull/583) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#583](https://github.com/anuraghazra/github-readme-stats/issues/583) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 💪 Opened PR [#583](https://github.com/anuraghazra/github-readme-stats/pull/583) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-5. 🗣 Commented on [#519](https://github.com/anuraghazra/github-readme-stats/issues/519) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-6. ❗️ Closed issue [#190](https://github.com/ros-tooling/github-contribution-report-generator/issues/190) in [ros-tooling/github-contribution-report-generator](https://github.com/ros-tooling/github-contribution-report-generator)
-7. 🗣 Commented on [#190](https://github.com/ros-tooling/github-contribution-report-generator/issues/190) in [ros-tooling/github-contribution-report-generator](https://github.com/ros-tooling/github-contribution-report-generator)
-8. 🗣 Commented on [#18](https://github.com/akhilmhdh/contributors-readme-action/issues/18) in [akhilmhdh/contributors-readme-action](https://github.com/akhilmhdh/contributors-readme-action)
-9. ❗️ Closed issue [#18](https://github.com/akhilmhdh/contributors-readme-action/issues/18) in [akhilmhdh/contributors-readme-action](https://github.com/akhilmhdh/contributors-readme-action)
-10. 🗣 Commented on [#18](https://github.com/akhilmhdh/contributors-readme-action/issues/18) in [akhilmhdh/contributors-readme-action](https://github.com/akhilmhdh/contributors-readme-action)
 <!--END_SECTION:activity-->
