@@ -4,7 +4,7 @@
 
 🔭 Currently, on my free time, I'm working on [Aviant.DDD](https://github.com/panosru/Aviant.DDD) and [CleanDDDArchitecture](https://github.com/panosru/CleanDDDArchitecture) template. Both are based on .Net/C# and demonstrate the use of Domain Driven Design, Clean Architecture, CQRS, Event Sourcing and other cool stuff!
 
-🎓 After many years of development and business related experience, I decided to major in Computer Science, Business Administrator, Economics and Law... in parallel... 🤯
+🎓 After many years of development and business related experience, I decided to major in Computer Science, Business Administrator, Economics and Law... 🤯
 
 🎵 I love music!
 
