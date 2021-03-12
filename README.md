@@ -19,13 +19,13 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/Stillness-2/beardie/issues/3) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
-2. 🗣 Commented on [#28456](https://github.com/dotnet/aspnetcore/issues/28456) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+1. 🗣 Commented on [#3](https://github.com/Stillness-2/beardie/issues/3) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
+2. ❗️ Opened issue [#3](https://github.com/Stillness-2/beardie/issues/3) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 3. 🗣 Commented on [#28456](https://github.com/dotnet/aspnetcore/issues/28456) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 4. 🗣 Commented on [#28456](https://github.com/dotnet/aspnetcore/issues/28456) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 5. 🗣 Commented on [#28456](https://github.com/dotnet/aspnetcore/issues/28456) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
-6. 🗣 Commented on [#165](https://github.com/dotnet/cli-lab/issues/165) in [dotnet/cli-lab](https://github.com/dotnet/cli-lab)
-7. 🗣 Commented on [#29](https://github.com/kabel/homebrew-php-ext/issues/29) in [kabel/homebrew-php-ext](https://github.com/kabel/homebrew-php-ext)
+6. 🗣 Commented on [#28456](https://github.com/dotnet/aspnetcore/issues/28456) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+7. 🗣 Commented on [#165](https://github.com/dotnet/cli-lab/issues/165) in [dotnet/cli-lab](https://github.com/dotnet/cli-lab)
 8. 🗣 Commented on [#29](https://github.com/kabel/homebrew-php-ext/issues/29) in [kabel/homebrew-php-ext](https://github.com/kabel/homebrew-php-ext)
 9. 🗣 Commented on [#29](https://github.com/kabel/homebrew-php-ext/issues/29) in [kabel/homebrew-php-ext](https://github.com/kabel/homebrew-php-ext)
 10. 🗣 Commented on [#29](https://github.com/kabel/homebrew-php-ext/issues/29) in [kabel/homebrew-php-ext](https://github.com/kabel/homebrew-php-ext)
