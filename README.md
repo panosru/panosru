@@ -19,10 +19,10 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/elgatosf/streamdeck-analogclock/issues/3) in [elgatosf/streamdeck-analogclock](https://github.com/elgatosf/streamdeck-analogclock)
-2. 🗣 Commented on [#3](https://github.com/Stillness-2/beardie/issues/3) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
-3. ❗️ Opened issue [#3](https://github.com/Stillness-2/beardie/issues/3) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
-4. 🗣 Commented on [#28456](https://github.com/dotnet/aspnetcore/issues/28456) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
+1. 🗣 Commented on [#3](https://github.com/elgatosf/streamdeck-analogclock/issues/3) in [elgatosf/streamdeck-analogclock](https://github.com/elgatosf/streamdeck-analogclock)
+2. ❗️ Opened issue [#3](https://github.com/elgatosf/streamdeck-analogclock/issues/3) in [elgatosf/streamdeck-analogclock](https://github.com/elgatosf/streamdeck-analogclock)
+3. 🗣 Commented on [#3](https://github.com/Stillness-2/beardie/issues/3) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
+4. ❗️ Opened issue [#3](https://github.com/Stillness-2/beardie/issues/3) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 5. 🗣 Commented on [#28456](https://github.com/dotnet/aspnetcore/issues/28456) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 6. 🗣 Commented on [#28456](https://github.com/dotnet/aspnetcore/issues/28456) in [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore)
 7. 🗣 Commented on [#165](https://github.com/dotnet/cli-lab/issues/165) in [dotnet/cli-lab](https://github.com/dotnet/cli-lab)
