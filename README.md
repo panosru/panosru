@@ -20,13 +20,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
-2. 🎉 Merged PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-3. 💪 Opened PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-4. ❗️ Opened issue [#145](https://github.com/bitfocus/companion-module-bmd-atem/issues/145) in [bitfocus/companion-module-bmd-atem](https://github.com/bitfocus/companion-module-bmd-atem)
-5. 🗣 Commented on [#1095](https://github.com/anuraghazra/github-readme-stats/issues/1095) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
+3. 🎉 Merged PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+4. 💪 Opened PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+5. ❗️ Opened issue [#145](https://github.com/bitfocus/companion-module-bmd-atem/issues/145) in [bitfocus/companion-module-bmd-atem](https://github.com/bitfocus/companion-module-bmd-atem)
 6. 🗣 Commented on [#1095](https://github.com/anuraghazra/github-readme-stats/issues/1095) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-7. 🗣 Commented on [#3](https://github.com/elgatosf/streamdeck-analogclock/issues/3) in [elgatosf/streamdeck-analogclock](https://github.com/elgatosf/streamdeck-analogclock)
+7. 🗣 Commented on [#1095](https://github.com/anuraghazra/github-readme-stats/issues/1095) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 8. 🗣 Commented on [#3](https://github.com/elgatosf/streamdeck-analogclock/issues/3) in [elgatosf/streamdeck-analogclock](https://github.com/elgatosf/streamdeck-analogclock)
-9. ❗️ Opened issue [#3](https://github.com/elgatosf/streamdeck-analogclock/issues/3) in [elgatosf/streamdeck-analogclock](https://github.com/elgatosf/streamdeck-analogclock)
-10. 🗣 Commented on [#29](https://github.com/kabel/homebrew-php-ext/issues/29) in [kabel/homebrew-php-ext](https://github.com/kabel/homebrew-php-ext)
+9. 🗣 Commented on [#3](https://github.com/elgatosf/streamdeck-analogclock/issues/3) in [elgatosf/streamdeck-analogclock](https://github.com/elgatosf/streamdeck-analogclock)
+10. ❗️ Opened issue [#3](https://github.com/elgatosf/streamdeck-analogclock/issues/3) in [elgatosf/streamdeck-analogclock](https://github.com/elgatosf/streamdeck-analogclock)
 <!--END_SECTION:activity-->
