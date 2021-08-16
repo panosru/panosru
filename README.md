@@ -24,9 +24,9 @@
 3. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 4. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 5. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
-6. 🎉 Merged PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-7. 💪 Opened PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-8. ❗️ Opened issue [#145](https://github.com/bitfocus/companion-module-bmd-atem/issues/145) in [bitfocus/companion-module-bmd-atem](https://github.com/bitfocus/companion-module-bmd-atem)
-9. 🗣 Commented on [#1095](https://github.com/anuraghazra/github-readme-stats/issues/1095) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+6. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
+7. 🎉 Merged PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+8. 💪 Opened PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+9. ❗️ Opened issue [#145](https://github.com/bitfocus/companion-module-bmd-atem/issues/145) in [bitfocus/companion-module-bmd-atem](https://github.com/bitfocus/companion-module-bmd-atem)
 10. 🗣 Commented on [#1095](https://github.com/anuraghazra/github-readme-stats/issues/1095) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:activity-->
