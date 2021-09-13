@@ -19,14 +19,14 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
+1. 🗣 Commented on [#125](https://github.com/pamidur/aspect-injector/issues/125) in [pamidur/aspect-injector](https://github.com/pamidur/aspect-injector)
 2. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 3. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 4. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 5. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 6. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 7. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
-8. 🎉 Merged PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-9. 💪 Opened PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-10. ❗️ Opened issue [#145](https://github.com/bitfocus/companion-module-bmd-atem/issues/145) in [bitfocus/companion-module-bmd-atem](https://github.com/bitfocus/companion-module-bmd-atem)
+8. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
+9. 🎉 Merged PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+10. 💪 Opened PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
 <!--END_SECTION:activity-->
