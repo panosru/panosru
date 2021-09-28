@@ -20,13 +20,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-2. 🗣 Commented on [#125](https://github.com/pamidur/aspect-injector/issues/125) in [pamidur/aspect-injector](https://github.com/pamidur/aspect-injector)
-3. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
+2. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+3. 🗣 Commented on [#125](https://github.com/pamidur/aspect-injector/issues/125) in [pamidur/aspect-injector](https://github.com/pamidur/aspect-injector)
 4. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 5. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 6. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 7. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 8. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 9. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
-10. 🎉 Merged PR [#18](https://github.com/panosru/fault-manager/pull/18) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+10. 🗣 Commented on [#19](https://github.com/Stillness-2/beardie/issues/19) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 <!--END_SECTION:activity-->
