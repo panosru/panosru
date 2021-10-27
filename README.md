@@ -19,14 +19,14 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/panosru/fault-manager/pull/20) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-2. 💪 Opened PR [#20](https://github.com/panosru/fault-manager/pull/20) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-3. 🎉 Merged PR [#19](https://github.com/panosru/fault-manager/pull/19) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-4. 💪 Opened PR [#19](https://github.com/panosru/fault-manager/pull/19) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-5. 🎉 Merged PR [#1](https://github.com/panosru/github-readme-stats/pull/1) in [panosru/github-readme-stats](https://github.com/panosru/github-readme-stats)
-6. 💪 Opened PR [#1](https://github.com/panosru/github-readme-stats/pull/1) in [panosru/github-readme-stats](https://github.com/panosru/github-readme-stats)
-7. 🗣 Commented on [#793](https://github.com/yuliskov/SmartTubeNext/issues/793) in [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
+1. ❗️ Opened issue [#2864](https://github.com/pqrs-org/Karabiner-Elements/issues/2864) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+2. 🎉 Merged PR [#20](https://github.com/panosru/fault-manager/pull/20) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+3. 💪 Opened PR [#20](https://github.com/panosru/fault-manager/pull/20) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+4. 🎉 Merged PR [#19](https://github.com/panosru/fault-manager/pull/19) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+5. 💪 Opened PR [#19](https://github.com/panosru/fault-manager/pull/19) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+6. 🎉 Merged PR [#1](https://github.com/panosru/github-readme-stats/pull/1) in [panosru/github-readme-stats](https://github.com/panosru/github-readme-stats)
+7. 💪 Opened PR [#1](https://github.com/panosru/github-readme-stats/pull/1) in [panosru/github-readme-stats](https://github.com/panosru/github-readme-stats)
 8. 🗣 Commented on [#793](https://github.com/yuliskov/SmartTubeNext/issues/793) in [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
 9. 🗣 Commented on [#793](https://github.com/yuliskov/SmartTubeNext/issues/793) in [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
-10. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+10. 🗣 Commented on [#793](https://github.com/yuliskov/SmartTubeNext/issues/793) in [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext)
 <!--END_SECTION:activity-->
