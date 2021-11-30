@@ -19,14 +19,14 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-2. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+1. ❗️ Closed issue [#2864](https://github.com/pqrs-org/Karabiner-Elements/issues/2864) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+2. 🗣 Commented on [#2864](https://github.com/pqrs-org/Karabiner-Elements/issues/2864) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 3. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-4. 🎉 Merged PR [#1](https://github.com/CS-Daedalus/CN5005/pull/1) in [CS-Daedalus/CN5005](https://github.com/CS-Daedalus/CN5005)
-5. 💪 Opened PR [#1](https://github.com/CS-Daedalus/CN5005/pull/1) in [CS-Daedalus/CN5005](https://github.com/CS-Daedalus/CN5005)
-6. ❗️ Opened issue [#2864](https://github.com/pqrs-org/Karabiner-Elements/issues/2864) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
-7. 🎉 Merged PR [#20](https://github.com/panosru/fault-manager/pull/20) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-8. 💪 Opened PR [#20](https://github.com/panosru/fault-manager/pull/20) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-9. 🎉 Merged PR [#19](https://github.com/panosru/fault-manager/pull/19) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-10. 💪 Opened PR [#19](https://github.com/panosru/fault-manager/pull/19) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+4. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+5. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+6. 🎉 Merged PR [#1](https://github.com/CS-Daedalus/CN5005/pull/1) in [CS-Daedalus/CN5005](https://github.com/CS-Daedalus/CN5005)
+7. 💪 Opened PR [#1](https://github.com/CS-Daedalus/CN5005/pull/1) in [CS-Daedalus/CN5005](https://github.com/CS-Daedalus/CN5005)
+8. ❗️ Opened issue [#2864](https://github.com/pqrs-org/Karabiner-Elements/issues/2864) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+9. 🎉 Merged PR [#20](https://github.com/panosru/fault-manager/pull/20) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+10. 💪 Opened PR [#20](https://github.com/panosru/fault-manager/pull/20) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
 <!--END_SECTION:activity-->
