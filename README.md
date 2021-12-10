@@ -19,14 +19,14 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2864](https://github.com/pqrs-org/Karabiner-Elements/issues/2864) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
-2. 🗣 Commented on [#2864](https://github.com/pqrs-org/Karabiner-Elements/issues/2864) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
-3. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-4. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-5. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
-6. 🎉 Merged PR [#1](https://github.com/CS-Daedalus/CN5005/pull/1) in [CS-Daedalus/CN5005](https://github.com/CS-Daedalus/CN5005)
-7. 💪 Opened PR [#1](https://github.com/CS-Daedalus/CN5005/pull/1) in [CS-Daedalus/CN5005](https://github.com/CS-Daedalus/CN5005)
-8. ❗️ Opened issue [#2864](https://github.com/pqrs-org/Karabiner-Elements/issues/2864) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
-9. 🎉 Merged PR [#20](https://github.com/panosru/fault-manager/pull/20) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
-10. 💪 Opened PR [#20](https://github.com/panosru/fault-manager/pull/20) in [panosru/fault-manager](https://github.com/panosru/fault-manager)
+1. ❌ Closed PR [#2](https://github.com/panosru/CleanDDDArchitecture/pull/2) in [panosru/CleanDDDArchitecture](https://github.com/panosru/CleanDDDArchitecture)
+2. ❌ Closed PR [#3](https://github.com/panosru/CleanDDDArchitecture/pull/3) in [panosru/CleanDDDArchitecture](https://github.com/panosru/CleanDDDArchitecture)
+3. ❌ Closed PR [#4](https://github.com/panosru/CleanDDDArchitecture/pull/4) in [panosru/CleanDDDArchitecture](https://github.com/panosru/CleanDDDArchitecture)
+4. ❌ Closed PR [#1](https://github.com/panosru/CleanDDDArchitecture/pull/1) in [panosru/CleanDDDArchitecture](https://github.com/panosru/CleanDDDArchitecture)
+5. ❗️ Closed issue [#2864](https://github.com/pqrs-org/Karabiner-Elements/issues/2864) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+6. 🗣 Commented on [#2864](https://github.com/pqrs-org/Karabiner-Elements/issues/2864) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+7. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+8. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+9. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
+10. 🎉 Merged PR [#1](https://github.com/CS-Daedalus/CN5005/pull/1) in [CS-Daedalus/CN5005](https://github.com/CS-Daedalus/CN5005)
 <!--END_SECTION:activity-->
