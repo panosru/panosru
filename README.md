@@ -8,7 +8,7 @@
 
 💡 My ideology is that I don't believe that a person has to be a virtuoso in one field, and I strongly disagree that one cannot achieve greatness in multiple fields unrelated to each other.
 
-🔭 Currently, on my free time, I'm working on [Aviant.DDD](https://github.com/panosru/Aviant.DDD) and [CleanDDDArchitecture](https://github.com/panosru/CleanDDDArchitecture) template. Both are based on .Net/C# and demonstrate the use of Domain Driven Design, Clean Architecture, CQRS, Event Sourcing and other cool stuff!
+🔭 Currently, on my free time, I'm working on [Aviant](https://github.com/panosru/Aviant) Library and [CleanDDDArchitecture](https://github.com/panosru/CleanDDDArchitecture) template. Both are based on .Net/C# and demonstrate the use of Domain Driven Design, Clean Architecture, CQRS, Event Sourcing and plenty of interesting architectural approaches.
 
 🎶 I love music, especially the piano. I also like combat sports 🥊 🤼, diving 🤿, parachuting 🪂, climbing 🧗🏻, gaming 🎮, chess ♟ and many others 
 
