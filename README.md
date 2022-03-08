@@ -1,4 +1,4 @@
-### Hello 👋, I'm Panagiotis Kosmidis (AKA @panosru)
+### Hello 👋, I'm Panagiotis Kosmidis (AKA @panosru 🇬🇷 🇷🇺)
 
 [![](https://visitor-badge.glitch.me/badge?page_id=panosru-github-profile)](https://github.com/panosru) [![](https://img.shields.io/badge/-Panagiotis%20Kosmidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotiskosmidis/)](https://www.linkedin.com/in/panagiotiskosmidis/) [![](https://img.shields.io/badge/-Europass%20CV-blue?style=flat-square&logo=microsoft-word&logoColor=white&link=https://europa.eu/!yX83UF)](https://europa.eu/!yX83UF)
 
