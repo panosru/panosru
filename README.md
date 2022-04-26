@@ -28,12 +28,12 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/panosru/Playground/pull/2) in [panosru/Playground](https://github.com/panosru/Playground)
-2. 🗣 Commented on [#26](https://github.com/Stillness-2/beardie/issues/26) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
-3. 🗣 Commented on [#192](https://github.com/dortania/bugtracker/issues/192) in [dortania/bugtracker](https://github.com/dortania/bugtracker)
+1. ❗️ Opened issue [#186](https://github.com/palexdev/MaterialFX/issues/186) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+2. 🎉 Merged PR [#2](https://github.com/panosru/Playground/pull/2) in [panosru/Playground](https://github.com/panosru/Playground)
+3. 🗣 Commented on [#26](https://github.com/Stillness-2/beardie/issues/26) in [Stillness-2/beardie](https://github.com/Stillness-2/beardie)
 4. 🗣 Commented on [#192](https://github.com/dortania/bugtracker/issues/192) in [dortania/bugtracker](https://github.com/dortania/bugtracker)
 5. 🗣 Commented on [#192](https://github.com/dortania/bugtracker/issues/192) in [dortania/bugtracker](https://github.com/dortania/bugtracker)
-6. ❌ Closed PR [#4](https://github.com/panosru/CleanDDDArchitecture/pull/4) in [panosru/CleanDDDArchitecture](https://github.com/panosru/CleanDDDArchitecture)
+6. 🗣 Commented on [#192](https://github.com/dortania/bugtracker/issues/192) in [dortania/bugtracker](https://github.com/dortania/bugtracker)
 7. ❌ Closed PR [#1](https://github.com/panosru/CleanDDDArchitecture/pull/1) in [panosru/CleanDDDArchitecture](https://github.com/panosru/CleanDDDArchitecture)
 8. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
 9. 🗣 Commented on [#55](https://github.com/easysoft/zentaopms/issues/55) in [easysoft/zentaopms](https://github.com/easysoft/zentaopms)
