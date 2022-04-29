@@ -29,13 +29,13 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#190](https://github.com/palexdev/MaterialFX/issues/190) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
-2. ❗️ Opened issue [#191](https://github.com/palexdev/MaterialFX/issues/191) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
-3. ❗️ Opened issue [#190](https://github.com/palexdev/MaterialFX/issues/190) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
-4. 🗣 Commented on [#186](https://github.com/palexdev/MaterialFX/issues/186) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
-5. ❗️ Closed issue [#186](https://github.com/palexdev/MaterialFX/issues/186) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
-6. 🗣 Commented on [#186](https://github.com/palexdev/MaterialFX/issues/186) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+2. 🗣 Commented on [#190](https://github.com/palexdev/MaterialFX/issues/190) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+3. ❗️ Opened issue [#191](https://github.com/palexdev/MaterialFX/issues/191) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+4. ❗️ Opened issue [#190](https://github.com/palexdev/MaterialFX/issues/190) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+5. 🗣 Commented on [#186](https://github.com/palexdev/MaterialFX/issues/186) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+6. ❗️ Closed issue [#186](https://github.com/palexdev/MaterialFX/issues/186) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
 7. 🗣 Commented on [#186](https://github.com/palexdev/MaterialFX/issues/186) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
 8. 🗣 Commented on [#186](https://github.com/palexdev/MaterialFX/issues/186) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
-9. ❗️ Opened issue [#186](https://github.com/palexdev/MaterialFX/issues/186) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
-10. 🎉 Merged PR [#2](https://github.com/panosru/Playground/pull/2) in [panosru/Playground](https://github.com/panosru/Playground)
+9. 🗣 Commented on [#186](https://github.com/palexdev/MaterialFX/issues/186) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+10. ❗️ Opened issue [#186](https://github.com/palexdev/MaterialFX/issues/186) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
 <!--END_SECTION:activity-->
