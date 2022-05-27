@@ -12,7 +12,7 @@
 
 🎶 I love music, especially the piano. I also like combat sports 🥊 🤼, diving 🤿, parachuting 🪂, climbing 🧗🏻, gaming 🎮, chess ♟ and many others 
 
-[![Spotify](https://novatorem.panosru.vercel.app/api/spotify)](https://open.spotify.com/user/panosru) [<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=395187&theme=light&layout=compact">]([https://stackoverflow.com/users/story/395187](https://stackoverflow.com/users/395187/panosru))
+[![Spotify](https://novatorem.panosru.vercel.app/api/spotify)](https://open.spotify.com/user/panosru) [<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=395187&theme=light&layout=compact">](https://stackoverflow.com/users/395187/panosru)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
