@@ -28,14 +28,14 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#815](https://github.com/overtake/TelegramSwift/issues/815) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
-2. 💪 Opened PR [#772](https://github.com/jbogard/MediatR/pull/772) in [jbogard/MediatR](https://github.com/jbogard/MediatR)
-3. 🗣 Commented on [#286](https://github.com/dotnetcore/AspectCore-Framework/issues/286) in [dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework)
-4. 🎉 Merged PR [#6](https://github.com/panosru/Playground/pull/6) in [panosru/Playground](https://github.com/panosru/Playground)
-5. 🎉 Merged PR [#5](https://github.com/panosru/Playground/pull/5) in [panosru/Playground](https://github.com/panosru/Playground)
-6. 🎉 Merged PR [#4](https://github.com/panosru/Playground/pull/4) in [panosru/Playground](https://github.com/panosru/Playground)
-7. 🎉 Merged PR [#3](https://github.com/panosru/Playground/pull/3) in [panosru/Playground](https://github.com/panosru/Playground)
-8. ❗️ Closed issue [#201](https://github.com/palexdev/MaterialFX/issues/201) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
-9. 🗣 Commented on [#201](https://github.com/palexdev/MaterialFX/issues/201) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
-10. ❗️ Opened issue [#201](https://github.com/palexdev/MaterialFX/issues/201) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+1. ❗️ Opened issue [#1951](https://github.com/anuraghazra/github-readme-stats/issues/1951) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. ❗️ Opened issue [#815](https://github.com/overtake/TelegramSwift/issues/815) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
+3. 💪 Opened PR [#772](https://github.com/jbogard/MediatR/pull/772) in [jbogard/MediatR](https://github.com/jbogard/MediatR)
+4. 🗣 Commented on [#286](https://github.com/dotnetcore/AspectCore-Framework/issues/286) in [dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework)
+5. 🎉 Merged PR [#6](https://github.com/panosru/Playground/pull/6) in [panosru/Playground](https://github.com/panosru/Playground)
+6. 🎉 Merged PR [#5](https://github.com/panosru/Playground/pull/5) in [panosru/Playground](https://github.com/panosru/Playground)
+7. 🎉 Merged PR [#4](https://github.com/panosru/Playground/pull/4) in [panosru/Playground](https://github.com/panosru/Playground)
+8. 🎉 Merged PR [#3](https://github.com/panosru/Playground/pull/3) in [panosru/Playground](https://github.com/panosru/Playground)
+9. ❗️ Closed issue [#201](https://github.com/palexdev/MaterialFX/issues/201) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+10. 🗣 Commented on [#201](https://github.com/palexdev/MaterialFX/issues/201) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
 <!--END_SECTION:activity-->
