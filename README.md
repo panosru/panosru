@@ -28,14 +28,14 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#40](https://github.com/j-hc/revanced-magisk-module/issues/40) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
-2. 🎉 Merged PR [#1](https://github.com/panosru/panosru/pull/1) in [panosru/panosru](https://github.com/panosru/panosru)
-3. ❗️ Opened issue [#1951](https://github.com/anuraghazra/github-readme-stats/issues/1951) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. ❗️ Opened issue [#815](https://github.com/overtake/TelegramSwift/issues/815) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
-5. 💪 Opened PR [#772](https://github.com/jbogard/MediatR/pull/772) in [jbogard/MediatR](https://github.com/jbogard/MediatR)
-6. 🗣 Commented on [#286](https://github.com/dotnetcore/AspectCore-Framework/issues/286) in [dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework)
-7. 🎉 Merged PR [#6](https://github.com/panosru/Playground/pull/6) in [panosru/Playground](https://github.com/panosru/Playground)
-8. 🎉 Merged PR [#5](https://github.com/panosru/Playground/pull/5) in [panosru/Playground](https://github.com/panosru/Playground)
-9. 🎉 Merged PR [#4](https://github.com/panosru/Playground/pull/4) in [panosru/Playground](https://github.com/panosru/Playground)
-10. ❗️ Closed issue [#201](https://github.com/palexdev/MaterialFX/issues/201) in [palexdev/MaterialFX](https://github.com/palexdev/MaterialFX)
+1. 🗣 Commented on [#40](https://github.com/j-hc/revanced-magisk-module/issues/40) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+2. ❗️ Closed issue [#40](https://github.com/j-hc/revanced-magisk-module/issues/40) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+3. ❗️ Opened issue [#40](https://github.com/j-hc/revanced-magisk-module/issues/40) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+4. 🎉 Merged PR [#1](https://github.com/panosru/panosru/pull/1) in [panosru/panosru](https://github.com/panosru/panosru)
+5. ❗️ Opened issue [#1951](https://github.com/anuraghazra/github-readme-stats/issues/1951) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+6. ❗️ Opened issue [#815](https://github.com/overtake/TelegramSwift/issues/815) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
+7. 💪 Opened PR [#772](https://github.com/jbogard/MediatR/pull/772) in [jbogard/MediatR](https://github.com/jbogard/MediatR)
+8. 🗣 Commented on [#286](https://github.com/dotnetcore/AspectCore-Framework/issues/286) in [dotnetcore/AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework)
+9. 🎉 Merged PR [#6](https://github.com/panosru/Playground/pull/6) in [panosru/Playground](https://github.com/panosru/Playground)
+10. 🎉 Merged PR [#5](https://github.com/panosru/Playground/pull/5) in [panosru/Playground](https://github.com/panosru/Playground)
 <!--END_SECTION:activity-->
