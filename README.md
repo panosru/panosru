@@ -28,14 +28,14 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#764](https://github.com/overtake/TelegramSwift/issues/764) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
-2. 🗣 Commented on [#815](https://github.com/overtake/TelegramSwift/issues/815) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
-3. ❗️ Closed issue [#815](https://github.com/overtake/TelegramSwift/issues/815) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
-4. 🗣 Commented on [#40](https://github.com/j-hc/revanced-magisk-module/issues/40) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
-5. ❗️ Closed issue [#40](https://github.com/j-hc/revanced-magisk-module/issues/40) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
-6. ❗️ Opened issue [#40](https://github.com/j-hc/revanced-magisk-module/issues/40) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
-7. 🎉 Merged PR [#1](https://github.com/panosru/panosru/pull/1) in [panosru/panosru](https://github.com/panosru/panosru)
-8. ❗️ Opened issue [#1951](https://github.com/anuraghazra/github-readme-stats/issues/1951) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-9. ❗️ Opened issue [#815](https://github.com/overtake/TelegramSwift/issues/815) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
-10. 💪 Opened PR [#772](https://github.com/jbogard/MediatR/pull/772) in [jbogard/MediatR](https://github.com/jbogard/MediatR)
+1. ❗️ Closed issue [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+2. 🗣 Commented on [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+3. ❗️ Opened issue [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+4. 🗣 Commented on [#764](https://github.com/overtake/TelegramSwift/issues/764) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
+5. 🗣 Commented on [#815](https://github.com/overtake/TelegramSwift/issues/815) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
+6. ❗️ Closed issue [#815](https://github.com/overtake/TelegramSwift/issues/815) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
+7. 🗣 Commented on [#40](https://github.com/j-hc/revanced-magisk-module/issues/40) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+8. ❗️ Closed issue [#40](https://github.com/j-hc/revanced-magisk-module/issues/40) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+9. ❗️ Opened issue [#40](https://github.com/j-hc/revanced-magisk-module/issues/40) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+10. 🎉 Merged PR [#1](https://github.com/panosru/panosru/pull/1) in [panosru/panosru](https://github.com/panosru/panosru)
 <!--END_SECTION:activity-->
