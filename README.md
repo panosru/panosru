@@ -28,14 +28,14 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#208](https://github.com/linuxserver/docker-qbittorrent/issues/208) in [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent)
-2. ❗️ Opened issue [#207](https://github.com/linuxserver/docker-qbittorrent/issues/207) in [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent)
-3. 🗣 Commented on [#222](https://github.com/wahyd4/aria2-ariang-docker/issues/222) in [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker)
-4. ❗️ Opened issue [#222](https://github.com/wahyd4/aria2-ariang-docker/issues/222) in [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker)
-5. ❗️ Opened issue [#23](https://github.com/hurlenko/aria2-ariang-docker/issues/23) in [hurlenko/aria2-ariang-docker](https://github.com/hurlenko/aria2-ariang-docker)
-6. ❗️ Closed issue [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
-7. 🗣 Commented on [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
-8. ❗️ Opened issue [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
-9. 🗣 Commented on [#764](https://github.com/overtake/TelegramSwift/issues/764) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
-10. 🗣 Commented on [#815](https://github.com/overtake/TelegramSwift/issues/815) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
+1. ❗️ Closed issue [#222](https://github.com/wahyd4/aria2-ariang-docker/issues/222) in [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker)
+2. 🗣 Commented on [#222](https://github.com/wahyd4/aria2-ariang-docker/issues/222) in [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker)
+3. ❗️ Opened issue [#208](https://github.com/linuxserver/docker-qbittorrent/issues/208) in [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent)
+4. ❗️ Opened issue [#207](https://github.com/linuxserver/docker-qbittorrent/issues/207) in [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent)
+5. 🗣 Commented on [#222](https://github.com/wahyd4/aria2-ariang-docker/issues/222) in [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker)
+6. ❗️ Opened issue [#222](https://github.com/wahyd4/aria2-ariang-docker/issues/222) in [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker)
+7. ❗️ Opened issue [#23](https://github.com/hurlenko/aria2-ariang-docker/issues/23) in [hurlenko/aria2-ariang-docker](https://github.com/hurlenko/aria2-ariang-docker)
+8. ❗️ Closed issue [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+9. 🗣 Commented on [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
+10. ❗️ Opened issue [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
 <!--END_SECTION:activity-->
