@@ -17,15 +17,23 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-<img width="455px" align="left" src="https://github-stats-git-custom-panosru.vercel.app/api?username=panosru&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&custom_title=My%20Open%20Source%20Journey&locale=en&line_height=30" alt="Panosru's github stats" />
-
-<img align="right" src="https://github-stats-git-custom-panosru.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true&locale=en&exclude_repo=github-readme-stats,panosru,cockpit_GROUPS,jamesgeorge007,hedythedev,katerina-web,.net-rnd-i18n,php-censor,framework,BetterReflection,docker-php-censor,protos,node-jinjs,protos-docs,OxyNode" alt="Top Langs" />
-
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=panosru&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" /></p>
 
+<p align="center">
+<img align="left" width="367px" src="https://github-stats-git-custom-panosru.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true&locale=en&exclude_repo=github-readme-stats,panosru,cockpit_GROUPS,jamesgeorge007,hedythedev,katerina-web,.net-rnd-i18n,php-censor,framework,BetterReflection,docker-php-censor,protos,node-jinjs,protos-docs,OxyNode" alt="Top Langs" />
+  
+<img align="right" src="https://github-stats-git-custom-panosru.vercel.app/api?username=panosru&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&custom_title=My%20Open%20Source%20Journey&locale=en&line_height=30" alt="Panosru's github stats" />
+</p>
 
-<img align="right" width="400" src="https://github-stats-git-custom-panosru.vercel.app/api/wakatime?username=panosru&hide_border=true" />
 
+
+<p align="left">
+
+  <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>
+  
+  <img align="right" width="400" src="https://github-stats-git-custom-panosru.vercel.app/api/wakatime?username=panosru&hide_border=true" />
+  
+  
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
@@ -40,3 +48,5 @@
 9. ❗️ Closed issue [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
 10. 🗣 Commented on [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
 <!--END_SECTION:activity-->
+
+</p>
