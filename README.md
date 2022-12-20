@@ -22,7 +22,7 @@
 <p align="center">
 <img align="left" src="https://github-stats-git-custom-panosru.vercel.app/api/top-langs/?username=panosru&langs_count=20&layout=compact&count_private=true&hide_border=true&locale=en&exclude_repo=github-readme-stats,panosru,cockpit_GROUPS,jamesgeorge007,hedythedev,katerina-web,.net-rnd-i18n,php-censor,framework,BetterReflection,docker-php-censor,protos,node-jinjs,protos-docs,OxyNode" alt="Top Langs" />
   
-<img align="right" width="420px" src="https://github-stats-git-custom-panosru.vercel.app/api?username=panosru&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&custom_title=My%20Open%20Source%20Journey&locale=en&line_height=30" alt="Panosru's github stats" />
+<img align="right" width="430px" src="https://github-stats-git-custom-panosru.vercel.app/api?username=panosru&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&custom_title=My%20Open%20Source%20Journey&locale=en&line_height=30" alt="Panosru's github stats" />
 </p>
 
 
@@ -31,7 +31,7 @@
 
   <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>  <br>
   
-  <img align="right" width="400" src="https://github-stats-git-custom-panosru.vercel.app/api/wakatime?username=panosru&hide_border=true" />
+  <img align="right" width="300" src="https://github-stats-git-custom-panosru.vercel.app/api/wakatime?username=panosru&hide_border=true" />
   
   
 **👣 Recent GitHub Activity**
