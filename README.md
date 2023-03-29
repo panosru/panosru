@@ -37,10 +37,10 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#158](https://github.com/corpnewt/ProperTree/issues/158) in [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree)
-2. 🗣 Commented on [#764](https://github.com/overtake/TelegramSwift/issues/764) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
-3. 🗣 Commented on [#1529](https://github.com/waydabber/BetterDisplay/issues/1529) in [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
-4. ❗️ Closed issue [#222](https://github.com/wahyd4/aria2-ariang-docker/issues/222) in [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker)
+1. 🗣 Commented on [#12](https://github.com/aluveitie/RadeonSensor/issues/12) in [aluveitie/RadeonSensor](https://github.com/aluveitie/RadeonSensor)
+2. 🗣 Commented on [#158](https://github.com/corpnewt/ProperTree/issues/158) in [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree)
+3. 🗣 Commented on [#764](https://github.com/overtake/TelegramSwift/issues/764) in [overtake/TelegramSwift](https://github.com/overtake/TelegramSwift)
+4. 🗣 Commented on [#1529](https://github.com/waydabber/BetterDisplay/issues/1529) in [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay)
 5. 🗣 Commented on [#222](https://github.com/wahyd4/aria2-ariang-docker/issues/222) in [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker)
 6. ❗️ Opened issue [#208](https://github.com/linuxserver/docker-qbittorrent/issues/208) in [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent)
 7. ❗️ Opened issue [#207](https://github.com/linuxserver/docker-qbittorrent/issues/207) in [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent)
