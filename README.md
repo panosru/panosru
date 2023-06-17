@@ -37,12 +37,12 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1286](https://github.com/JohnCoates/Aerial/issues/1286) in [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial)
-2. 🎉 Merged PR [#2](https://github.com/panosru/github-readme-stats/pull/2) in [panosru/github-readme-stats](https://github.com/panosru/github-readme-stats)
-3. 💪 Opened PR [#2](https://github.com/panosru/github-readme-stats/pull/2) in [panosru/github-readme-stats](https://github.com/panosru/github-readme-stats)
-4. 🗣 Commented on [#12](https://github.com/aluveitie/RadeonSensor/issues/12) in [aluveitie/RadeonSensor](https://github.com/aluveitie/RadeonSensor)
-5. 🗣 Commented on [#158](https://github.com/corpnewt/ProperTree/issues/158) in [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree)
-6. ❗️ Opened issue [#208](https://github.com/linuxserver/docker-qbittorrent/issues/208) in [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent)
+1. 🗣 Commented on [#754](https://github.com/nextcloud/fulltextsearch/issues/754) in [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch)
+2. 🗣 Commented on [#1286](https://github.com/JohnCoates/Aerial/issues/1286) in [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial)
+3. 🎉 Merged PR [#2](https://github.com/panosru/github-readme-stats/pull/2) in [panosru/github-readme-stats](https://github.com/panosru/github-readme-stats)
+4. 💪 Opened PR [#2](https://github.com/panosru/github-readme-stats/pull/2) in [panosru/github-readme-stats](https://github.com/panosru/github-readme-stats)
+5. 🗣 Commented on [#12](https://github.com/aluveitie/RadeonSensor/issues/12) in [aluveitie/RadeonSensor](https://github.com/aluveitie/RadeonSensor)
+6. 🗣 Commented on [#158](https://github.com/corpnewt/ProperTree/issues/158) in [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree)
 7. ❗️ Opened issue [#207](https://github.com/linuxserver/docker-qbittorrent/issues/207) in [linuxserver/docker-qbittorrent](https://github.com/linuxserver/docker-qbittorrent)
 8. ❗️ Opened issue [#222](https://github.com/wahyd4/aria2-ariang-docker/issues/222) in [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker)
 9. ❗️ Opened issue [#23](https://github.com/hurlenko/aria2-ariang-docker/issues/23) in [hurlenko/aria2-ariang-docker](https://github.com/hurlenko/aria2-ariang-docker)
