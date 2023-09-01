@@ -37,12 +37,12 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#754](https://github.com/nextcloud/fulltextsearch/issues/754) in [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch)
-2. 🎉 Merged PR [#7](https://github.com/panosru/Playground/pull/7) in [panosru/Playground](https://github.com/panosru/Playground)
-3. ❗️ Opened issue [#41](https://github.com/siteinspector/siteinspector/issues/41) in [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector)
-4. 🗣 Commented on [#754](https://github.com/nextcloud/fulltextsearch/issues/754) in [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch)
-5. 🗣 Commented on [#1286](https://github.com/JohnCoates/Aerial/issues/1286) in [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial)
-6. 🎉 Merged PR [#2](https://github.com/panosru/github-readme-stats/pull/2) in [panosru/github-readme-stats](https://github.com/panosru/github-readme-stats)
+1. ❗️ Opened issue [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
+2. 🗣 Commented on [#754](https://github.com/nextcloud/fulltextsearch/issues/754) in [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch)
+3. 🎉 Merged PR [#7](https://github.com/panosru/Playground/pull/7) in [panosru/Playground](https://github.com/panosru/Playground)
+4. ❗️ Opened issue [#41](https://github.com/siteinspector/siteinspector/issues/41) in [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector)
+5. 🗣 Commented on [#754](https://github.com/nextcloud/fulltextsearch/issues/754) in [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch)
+6. 🗣 Commented on [#1286](https://github.com/JohnCoates/Aerial/issues/1286) in [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial)
 7. 💪 Opened PR [#2](https://github.com/panosru/github-readme-stats/pull/2) in [panosru/github-readme-stats](https://github.com/panosru/github-readme-stats)
 8. ❗️ Opened issue [#222](https://github.com/wahyd4/aria2-ariang-docker/issues/222) in [wahyd4/aria2-ariang-docker](https://github.com/wahyd4/aria2-ariang-docker)
 9. ❗️ Opened issue [#23](https://github.com/hurlenko/aria2-ariang-docker/issues/23) in [hurlenko/aria2-ariang-docker](https://github.com/hurlenko/aria2-ariang-docker)
