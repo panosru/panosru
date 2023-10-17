@@ -1,4 +1,4 @@
-### Hello 👋, I'm Panagiotis Kosmidis (AKA @panosru 🇬🇷 🇷🇺) [![](https://img.shields.io/badge/-Panagiotis%20Kosmidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotiskosmidis/)](https://www.linkedin.com/in/panagiotiskosmidis/)
+### Hello 👋, I'm Panagiotis Kosmidis (AKA @panosru 🇬🇷 🇷🇺) [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/panagiotiskosmidis/)](https://www.linkedin.com/in/panagiotiskosmidis/)
 
 [<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=395187&theme=light&layout=compact">](https://stackoverflow.com/users/395187/panosru)
 🎓 After many years of development and business-related experience, I decided to major in Computer Science, Business Administrator, Economics and Law... 🤯 I'm passionate about Law and Math, mostly, I want to evolve myself constantly and expand my knowledge in a variety of fields.
