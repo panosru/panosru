@@ -35,14 +35,14 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#160](https://github.com/DurgNomis-drol/ha_toyota/issues/160) in [DurgNomis-drol/ha_toyota](https://github.com/DurgNomis-drol/ha_toyota)
-2. ❗️ Closed issue [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
-3. 🗣 Commented on [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
-4. 🗣 Commented on [#13](https://github.com/b00t0x/CpuTopologyRebuild/issues/13) in [b00t0x/CpuTopologyRebuild](https://github.com/b00t0x/CpuTopologyRebuild)
-5. 🗣 Commented on [#147](https://github.com/jlesage/docker-jdownloader-2/issues/147) in [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2)
-6. ❗️ Opened issue [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
-7. 🗣 Commented on [#754](https://github.com/nextcloud/fulltextsearch/issues/754) in [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch)
-8. ❗️ Opened issue [#41](https://github.com/siteinspector/siteinspector/issues/41) in [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector)
+1. 🗣 Commented on [#403](https://github.com/tuya/tuya-home-assistant/issues/403) in [tuya/tuya-home-assistant](https://github.com/tuya/tuya-home-assistant)
+2. 🗣 Commented on [#160](https://github.com/DurgNomis-drol/ha_toyota/issues/160) in [DurgNomis-drol/ha_toyota](https://github.com/DurgNomis-drol/ha_toyota)
+3. ❗️ Closed issue [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
+4. 🗣 Commented on [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
+5. 🗣 Commented on [#13](https://github.com/b00t0x/CpuTopologyRebuild/issues/13) in [b00t0x/CpuTopologyRebuild](https://github.com/b00t0x/CpuTopologyRebuild)
+6. 🗣 Commented on [#147](https://github.com/jlesage/docker-jdownloader-2/issues/147) in [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2)
+7. ❗️ Opened issue [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
+8. 🗣 Commented on [#754](https://github.com/nextcloud/fulltextsearch/issues/754) in [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch)
 9. ❗️ Opened issue [#23](https://github.com/hurlenko/aria2-ariang-docker/issues/23) in [hurlenko/aria2-ariang-docker](https://github.com/hurlenko/aria2-ariang-docker)
 10. 🗣 Commented on [#70](https://github.com/j-hc/revanced-magisk-module/issues/70) in [j-hc/revanced-magisk-module](https://github.com/j-hc/revanced-magisk-module)
 <!--END_SECTION:activity-->
