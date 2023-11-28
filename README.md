@@ -35,16 +35,16 @@
 **👣 Recent GitHub Activity**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/custom-cards/stack-in-card/issues/45) in [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card)
-2. 🗣 Commented on [#63978](https://github.com/home-assistant/core/issues/63978) in [home-assistant/core](https://github.com/home-assistant/core)
-3. 🗣 Commented on [#403](https://github.com/tuya/tuya-home-assistant/issues/403) in [tuya/tuya-home-assistant](https://github.com/tuya/tuya-home-assistant)
-4. 🗣 Commented on [#160](https://github.com/DurgNomis-drol/ha_toyota/issues/160) in [DurgNomis-drol/ha_toyota](https://github.com/DurgNomis-drol/ha_toyota)
-5. ❗️ Closed issue [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
-6. 🗣 Commented on [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
-7. 🗣 Commented on [#13](https://github.com/b00t0x/CpuTopologyRebuild/issues/13) in [b00t0x/CpuTopologyRebuild](https://github.com/b00t0x/CpuTopologyRebuild)
-8. 🗣 Commented on [#147](https://github.com/jlesage/docker-jdownloader-2/issues/147) in [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2)
-9. ❗️ Opened issue [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
-10. 🗣 Commented on [#754](https://github.com/nextcloud/fulltextsearch/issues/754) in [nextcloud/fulltextsearch](https://github.com/nextcloud/fulltextsearch)
+1. ❗️ Opened issue [#104639](https://github.com/home-assistant/core/issues/104639) in [home-assistant/core](https://github.com/home-assistant/core)
+2. 🗣 Commented on [#45](https://github.com/custom-cards/stack-in-card/issues/45) in [custom-cards/stack-in-card](https://github.com/custom-cards/stack-in-card)
+3. 🗣 Commented on [#63978](https://github.com/home-assistant/core/issues/63978) in [home-assistant/core](https://github.com/home-assistant/core)
+4. 🗣 Commented on [#403](https://github.com/tuya/tuya-home-assistant/issues/403) in [tuya/tuya-home-assistant](https://github.com/tuya/tuya-home-assistant)
+5. 🗣 Commented on [#160](https://github.com/DurgNomis-drol/ha_toyota/issues/160) in [DurgNomis-drol/ha_toyota](https://github.com/DurgNomis-drol/ha_toyota)
+6. ❗️ Closed issue [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
+7. 🗣 Commented on [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
+8. 🗣 Commented on [#13](https://github.com/b00t0x/CpuTopologyRebuild/issues/13) in [b00t0x/CpuTopologyRebuild](https://github.com/b00t0x/CpuTopologyRebuild)
+9. 🗣 Commented on [#147](https://github.com/jlesage/docker-jdownloader-2/issues/147) in [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2)
+10. ❗️ Opened issue [#369](https://github.com/mirego/accent/issues/369) in [mirego/accent](https://github.com/mirego/accent)
 <!--END_SECTION:activity-->
 
 </p>
