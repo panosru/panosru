@@ -15,6 +15,7 @@ I design .NET systems around the domain, teach computer science and AI, and run 
 <a href="https://www.researchgate.net/profile/Panagiotis-Kosmidis-2"><img src="https://img.shields.io/badge/ResearchGate-Research-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a>
 <a href="https://kaggle.com/panosru"><img src="https://img.shields.io/badge/Kaggle-Data%20Science-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 <a href="https://stackoverflow.com/users/395187/panosru"><img src="https://img.shields.io/badge/Stack%20Overflow-Q%26A-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
+<a href="https://linktr.ee/panosru"><img src="https://img.shields.io/badge/Linktree-All%20links-43E660?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree"/></a>
 
 </div>
 
@@ -62,7 +63,6 @@ Most of this code lives in private repositories under [github.com/tecfinity](htt
 | :--- | :--- |
 | **[Aviant](https://github.com/tecfinity/Aviant)** | .NET library for DDD, CQRS and Event Sourcing, shipped as one NuGet package per layer. Covers identity, persistence, multi-tenancy, email and background jobs. MIT licensed, with CI and CodeQL. |
 | **[CleanDDDArchitecture](https://github.com/panosru/CleanDDDArchitecture)** | Reference application on **.NET 10**. Independent bounded contexts talk through a transactional outbox, in-process as a monolith or over Kafka as microservices. Includes an event-sourced aggregate on KurrentDB, architecture rules enforced by tests, and OpenTelemetry. |
-| **[Aviant-Skin](https://github.com/tecfinity/Aviant-Skin)** | Theming layer for Aviant Engine. |
 | **[jev-agent-toolkit](https://github.com/panosru/jev-agent-toolkit)** | Routes each prompt to a right-sized model and the right skill for Claude Code and the OpenAI Codex CLI. Falls back to normal behaviour if anything fails. |
 | **[AI-Trading-Performance-Study](https://github.com/panosru/AI-Trading-Performance-Study)** | Research notebook comparing AI models and human strategies in crypto trading, with genetic-algorithm optimisation. |
 
@@ -118,7 +118,7 @@ I commentate and present on ANT1 Plus (since July 2024) for *Cage Survivor* (MMA
 
 ## Get in touch
 
-Projects, architecture reviews and consulting go through **[Tecfinity](https://tecfinity.gr/en/contact)**. Teaching, speaking and everything else is easiest via [LinkedIn](https://www.linkedin.com/in/panagiotiskosmidis/) or [kosmidis.me](https://kosmidis.me/en/contact).
+Projects, architecture reviews and consulting go through **[Tecfinity](https://tecfinity.gr/en/contact)**. Teaching, speaking and everything else is easiest via [LinkedIn](https://www.linkedin.com/in/panagiotiskosmidis/) or [kosmidis.me](https://kosmidis.me/en/contact). Everything else (social channels included) is on my [Linktree](https://linktr.ee/panosru).
 
 <div align="center">
 <br/>
